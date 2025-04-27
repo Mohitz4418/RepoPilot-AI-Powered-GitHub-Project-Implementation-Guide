@@ -1,0 +1,12 @@
+streamlit
+langchain
+langchain_community
+python-dotenv
+PyGithub
+requests
+beautifulsoup4
+tiktoken
+faiss-cpu
+huggingface_hub
+sentence-transformers
+hf_xet
